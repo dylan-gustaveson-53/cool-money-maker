@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cool-money-maker
+  description: makes cool money
+  annotations: {}
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest
